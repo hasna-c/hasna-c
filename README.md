@@ -17,9 +17,9 @@
 
  - 🌱 I’m currently learning **Big data Technologies**
 
-  💬 Ask me about **Machine Learning , Sql , Python , Aws , Spark , Hive**
+   💬 Ask me about **Machine Learning , Sql , Python , Aws , Spark , Hive**
 
-  📫 How to reach me **hasnachelamadathil@gmail.com**
+   📫 How to reach me **hasnachelamadathil@gmail.com**
 
     <h3 align="left">Connect with me:</h3>
 <p align="left">

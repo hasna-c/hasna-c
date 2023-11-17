@@ -1,23 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Hasna, Good to have you here!</h1>
-<h5 align="center">A passionate Data engineer from India who creates simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.</h5>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 - 😄 Pronouns: She/Her
 
-- 🔭 As a student pursuing an MSc in Big Data Analytics, I am focused on building my skills and knowledge in the field. Here's what my current journey entails:
-    * 📚 I am actively engaged in my studies and dedicated to mastering the principles and techniques of big data analytics. My coursework covers various areas,         including data processing, machine learning, data visualization, and statistical analysis.
-    * 💻 I am passionate about hands-on learning and actively seek opportunities to apply what I learn in practical scenarios. This could involve working on projects, and collaborating with peers to solve real-world data problems.
-    * 🔍 Throughout my academic journey, my main objective is to construct a solid foundation in big data analytics. I am actively involved in coursework, research, and practical exercises to ensure a comprehensive understanding of the subject matter.
-      
-      ✨ By combining theoretical knowledge with practical application, I aim to develop a well-rounded skill set that enables me to tackle complex data challenges and extract valuable insights.
 
-      🌟 If you have any suggestions, recommendations, or opportunities that align with my academic pursuits, I am eager to hear from you. Let's connect and explore the exciting possibilities in the field of big data analytics!
 
  - 🌱 I’m currently learning **Big data Technologies**
 
-   💬 Ask me about **Machine Learning , Sql , Python , Aws , Spark , Hive**
+   💬 Ask me about **Machine Learning , AI , Computer Vision**
 
    📫 How to reach me **hasnachelamadathil@gmail.com**
 
